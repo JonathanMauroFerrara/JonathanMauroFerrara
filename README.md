@@ -1,9 +1,7 @@
 ### Hi there 👋
 I'm Jonathan and below i'll tell you something about my journey in the develop universe!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on team project 
+- 🔭 I’m currently working on App! It's a image recognigtion app 
 
 - 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508) && ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS&logoColor=blue)
 - 👯 I’m looking to collaborate on ...
