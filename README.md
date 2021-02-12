@@ -25,8 +25,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mauro-jonathan-ferrara-651740163/), <a href="jonathanmauro.ferrara@gmail.com">Email</a>
 
 
-<h1 align="center"><img src="https://github.com/JonathanMauroFerrara/JonathanMauroFerrara/blob/main/Assets/.gif" alt = "hi" width="400px" height="150px"></h1>
-
 #### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
