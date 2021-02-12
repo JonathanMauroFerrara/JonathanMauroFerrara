@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://github.com/JonathanMauroFerrara/JonathanMauroFerrara/blob/main/Assets/jonathan.gif" alt = "hi" width="400px" height="150px"></h1>
-<h1 align="center">Welcome to my GitHub!</h1>
 <h3 align="center">below i'll tell you something about my journey in the developer universe! :smile:</h3>
 <h1 align="center"><img src="https://github.com/JonathanMauroFerrara/JonathanMauroFerrara/blob/main/Assets/Coders.gif" alt = "hi" width="300px" height="200px"></h1>
 <br>
 
+### My journey
 - :mortar_board: I graduated in computer science from ISIS Facchinetti where my passion for programming was born!
 - :books: After the school i've continued study programming in the evening, after my current job.
 
@@ -15,8 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here the link of the repo for more info! -> https://github.com/TD-team3/img-recognition-web-app-fe <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deploy -> https://gracious-mcclintock-220460.netlify.app/index.html
 
-- :tram:  At the moment, i'm working as railway electronic laboratory technician. I like what i do, but it's not my dream job! i wanna be a Front-end developer!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- :tram:  At the moment, i'm working as railway electronic laboratory technician. I like what i do, but it's not my dream job! i wanna be a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Front-end developer!
+
 
 - 🌱 I’m currently learning  ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)  &&  ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS&logoColor=blue)
 
