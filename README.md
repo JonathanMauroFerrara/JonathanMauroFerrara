@@ -1,7 +1,16 @@
 <h1 align="center"><img src="https://github.com/JonathanMauroFerrara/JonathanMauroFerrara/blob/main/Assets/jonathan.gif" alt = "hi" width="400px" height="150px"></h1>
+<br>
+<h2 align="center"> My Dream Goal :trophy: </h2>
+<p align="center">**I aim to become a front-end developer who can bring innovation and positivity to the people I will work with and the companies that will believe in me, becoming a point of reference! :muscle: **</p> 
+<br>
 <h3 align="center">below i'll tell you something about my journey as aspiring junior web developer :smile:</h3>
 <h1 align="center"><img src="https://github.com/JonathanMauroFerrara/JonathanMauroFerrara/blob/main/Assets/Coding-guy-2.gif" alt = "hi" width="300px" height="200px"></h1>
 <br>
+
+
+
+
+
 
 ### <h2>My journey</h2> 
 - :mortar_board: I graduated in computer science from ISIS Facchinetti where **my passion for programming was born!**
@@ -32,6 +41,8 @@ As Team leader i've learned a lot of stuff! :blush:
 - **Communication**  in a team is the ** :key: to success**, i tried to respect others and their ideas trying to always **find a meeting point**
 - **Not being ashamed** to ask for help :raising_hand: was something I worked on a lot in this project, also pushing others to show their doubts and trying to solve them together
 - Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible was another point on which I worked a lot together with the team.
+- I learned how to organize :bookmark_tabs: the work for the front-end and for the back-end, trying to meet the deadlines :calendar: while also respecting the commitments of each employee
+- I have also learned to stay positive :muscle: by facing problems and obstacles along the way, always trying to motivate others to give their all too.
 <br>
 
 
