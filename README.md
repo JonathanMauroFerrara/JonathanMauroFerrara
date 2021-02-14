@@ -44,6 +44,7 @@ As Team leader i've learned a lot of stuff! :blush:
 - I learned how to organize :bookmark_tabs: the work for the front-end and for the back-end, trying to meet the deadlines :calendar: while also respecting the commitments of each employee
 - I have also learned to stay positive :muscle: by facing problems and obstacles along the way, always trying to motivate others to give their all too.
 <br>
+- [Web App Repo](https://github.com/TD-team3/img-recognition-web-app-fe) This is the project i'm working on, go on and take a look! 
 
 
 ### <h2>Languages i learned</h2>
