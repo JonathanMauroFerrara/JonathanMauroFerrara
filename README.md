@@ -25,7 +25,7 @@
 <br>
 
 
-### <h2>Team leader Experience </2>
+### <h2>Team leader Experience</h2>
 As Team leader i've learned a lot of stuff! :blush:
 - Working with others it's super useful! Sharing ideas and information eachother is like a boost :rocket: for my **creativity** and **opened my mind** :open_mouth:
 - Working as a team in the same development environment pushed me to write code **clean and understandable way as possibile** :construction_worker:
@@ -48,5 +48,7 @@ As Team leader i've learned a lot of stuff! :blush:
 ### <h2>Technology and pre-processor</h2>
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-fff?&logo=WEBPACK&logoColor=lightblue)
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS&logoColor=blue)
+<br>
+
 <h2> Keep in touch! </h2>
- [LinkedIn](https://www.linkedin.com/in/mauro-jonathan-ferrara-651740163/), <a href="jonathanmauro.ferrara@gmail.com">Email</a>
+ <a href= "https://www.linkedin.com/in/mauro-jonathan-ferrara-651740163/">Linkedin</a>  <a href="jonathanmauro.ferrara@gmail.com">Email</a>
