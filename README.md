@@ -38,7 +38,7 @@
 As Team leader i've learned a lot of stuff! :blush:
 - Working with others it's super useful! Sharing ideas and information eachother is like a boost :rocket: for my **creativity** and **opened my mind** :open_mouth:
 - Working as a team in the same development environment pushed me to write code **clean and understandable way as possibile** :construction_worker:
-- **Communication**  in a team is the ** :key: to success**, i tried to respect others and their ideas trying to always **find a meeting point**
+- **Communication**  in a team is the **:key: to success**, i tried to respect others and their ideas trying to always **find a meeting point**
 - **Not being ashamed** to ask for help :raising_hand: was something I worked on a lot in this project, also pushing others to show their doubts and trying to solve them together
 - Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible was another point on which I worked a lot together with the team.
 - I learned how to organize :bookmark_tabs: the work for the front-end and for the back-end, trying to meet the deadlines :calendar: while also respecting the commitments of each employee
