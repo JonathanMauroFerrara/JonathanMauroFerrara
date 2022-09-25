@@ -4,7 +4,7 @@
 <h3 align="center">Become a better front-end developer who can bring innovation and positivity to the people I will work with and the companies that will believe in me, becoming a point of reference! :muscle:</h3>
 <br>
 <h3 align="center">below i'll tell you something about my journey as junior web developer :smile:</h3>
-<h1 align="center"><img src="https://github.com/JonathanMauroFerrara/JonathanMauroFerrara/blob/main/Assets/Coding-guy-2.gif" alt = "hi" width="300px" height="200px"></h1>
+<h1 align="center"><img src="https://github.com/JonathanMauroFerrara/JonathanMauroFerrara/blob/main/Assets/codeguy.gif" alt = "hi" width="400px" height="300px"></h1>
 <br>
 
 
