@@ -38,6 +38,17 @@ I am currently part of a team consisting of myself and a colleague, with her I f
 - How to deal with every single obstacle or challenge by putting yourself out there
 - Work for objectives
 
+So far I have developed applications and websites with the use of custom Wordpress or headless.
+With Worpress custom I develop sites with HTML, Sass, Javascript and PHP.
+With Wordpress headless I make use of the APIs that I consume with React or Nextjs with which I build the whole frontend.
+In the last projects that are more and more complex I started using Nodejs to manage the backend by writing the APIs myself that I will consume the frontend with React / Nextjs.<br >
+I use Docker to create development environments which will then be sent to production with Docker.
+Below I will leave the link of some projects developed so far.
+
+Nextjs: https://syntesalloys.com/ <br >
+React + Wordpress custom: https://www.idiproject.com/<br >
+Wordpress full custom: https://nonsolobuono.it/, https://www.fashiongroup58.it/<br >
+
 The rest is to be discovered!
 <br> 
 
@@ -59,7 +70,7 @@ The rest is to be discovered!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### <h2>CMS</h2>
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) (Custom and headless)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) (Custom and headless)<br >
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 <br>
 
