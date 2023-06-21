@@ -20,9 +20,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TomorrowDevs is a community where there are Mentors who follow me. They give you material for study <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and **many projects** to work on for improve your skills with the practice. So i learned by doing!
 
-- 🔭 I’m currently working for Koodit, is a web services company. I manage, develop and support all the web application or web site for our customers! <br  >
+- 🔭 I’m currently working for [Mokka Studios](https://www.mokkastudios.com/it).
 
-- 🌱 I’m currently improve my skills with React and sometimes i do some code challenge for improve my logic skill.
+- 🌱 I’m currently improve my skills with React Native and i'm studying UX/UI to give a better layout and experience on my projects
 
 - ⚡ Motivational fact: **Those who think they can and those who think they can't are both usually right.**
 <br>
@@ -30,7 +30,7 @@
 
 ### <h2>My Experience so far!</h2>
 
-As a frontend developer in Koodit I have faced several challenges and overcome various obstacles. What I have certainly learned so far is how to deal with the non-comfort zone. I am constantly engaged in projects that require know-how that I do not initially possess and that I build during the project development process.
+I have three years of experience on web development and in this time i faced several challenges and overcome various obstacles. What I have certainly learned so far is how to deal with the non-comfort zone. I am constantly engaged in projects that require know-how that I do not initially possess and that I build during the project development process.
 I am currently part of a team consisting of myself and a colleague, with her I face various challenges that come to us. In this company I basically learned to:
 - Manage medium to large projects
 - Knowing how to communicate effectively
@@ -38,7 +38,7 @@ I am currently part of a team consisting of myself and a colleague, with her I f
 - How to deal with every single obstacle or challenge by putting yourself out there
 - Work for objectives
 
-So far I have developed applications and websites with the use of custom Wordpress or headless.
+So far I have developed applications and websites with the use React, Nextjs, Wordpress full custom and headless.
 With Worpress custom I develop sites with HTML, Sass, Javascript and PHP.
 With Wordpress headless I make use of the APIs that I consume with React or Nextjs with which I build the whole frontend.
 In the last projects that are more and more complex I started using Nodejs to manage the backend by writing the APIs myself that I will consume the frontend with React / Nextjs.<br >
