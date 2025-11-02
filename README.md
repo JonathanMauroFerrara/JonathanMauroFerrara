@@ -20,59 +20,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TomorrowDevs is a community where there are Mentors who follow me. They give you material for study <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and **many projects** to work on for improve your skills with the practice. So i learned by doing!
 
-- 🔭 I’m currently working for [Mokka Studios](https://www.mokkastudios.com/it).
+- 🔭 I’m currently working for [Arkemis](https://arkehub.com/).
 
-- 🌱 I’m currently improve my skills with React Native and i'm studying UX/UI to give a better layout and experience on my projects
+- 🌱 I’m currently work with Next.js to build clients product
 
 - ⚡ Motivational fact: **Those who think they can and those who think they can't are both usually right.**
 <br>
 
-
-### <h2>My Experience so far!</h2>
-
-I have three years of experience on web development and in this time i faced several challenges and overcome various obstacles. What I have certainly learned so far is how to deal with the non-comfort zone. I am constantly engaged in projects that require know-how that I do not initially possess and that I build during the project development process.
-I am currently part of a team consisting of myself and a colleague, with her I face various challenges that come to us. In this company I basically learned to:
-- Manage medium to large projects
-- Knowing how to communicate effectively
-- Teamwork is essential
-- How to deal with every single obstacle or challenge by putting yourself out there
-- Work for objectives
-
-So far I have developed applications and websites with the use React, Nextjs, Wordpress full custom and headless.
-With Worpress custom I develop sites with HTML, Sass, Javascript and PHP.
-With Wordpress headless I make use of the APIs that I consume with React or Nextjs with which I build the whole frontend.
-In the last projects that are more and more complex I started using Nodejs to manage the backend by writing the APIs myself that I will consume the frontend with React / Nextjs.<br >
-I use Docker to create development environments which will then be sent to production with Docker.
-Below I will leave the link of some projects developed so far.
-
-Nextjs: https://syntesalloys.com/ <br >
-React + Wordpress custom: https://www.idiproject.com/<br >
-Wordpress full custom: https://nonsolobuono.it/, https://www.fashiongroup58.it/<br >
-
-The rest is to be discovered!
-<br> 
-
-
-### <h2>Languages i learned</h2>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![BOOTSTRAP](https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
-![Nextjs](https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)
-![Nodejs](https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465) (Express as framework)
-
-### <h2>Technology and pre-processor</h2>
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### <h2>CMS</h2>
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) (Custom and headless)<br >
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-<br>
 
 <h2> Keep in touch! </h2>
  <a href= "https://www.linkedin.com/in/mauro-jonathan-ferrara-651740163/">Linkedin</a>  <a href="jonathanmauro.ferrara@gmail.com">Email</a>
