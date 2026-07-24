@@ -22,8 +22,6 @@
 
 - 🔭 I’m currently working for [Arkemis](https://arkehub.com/).
 
-- 🌱 I’m currently work with Next.js to build clients product
-
 - ⚡ Motivational fact: **Those who think they can and those who think they can't are both usually right.**
 <br>
 
